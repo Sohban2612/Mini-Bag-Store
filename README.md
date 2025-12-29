@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Premium Store - Full Stack E-Commerce Application
 
 A premium, full-stack e-commerce application with modern authentication, product management, and a beautiful user interface. Built with Node.js, Express, MongoDB, React, and integrated with FakeStore API.
@@ -298,3 +299,6 @@ Created as part of a full-stack e-commerce assessment with premium features.
 ---
 
 **Enjoy shopping! 🛍️**
+=======
+# Mini-Bag-Store
+>>>>>>> 34c799a8c2ade3de3dcd03b0c83bf51d0075ca6d
